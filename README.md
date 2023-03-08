@@ -34,6 +34,10 @@ Dengan cara nano main.py
 Kalian ubah API token openAI nya dengan API token openai kalian
 Dan ubah juga API token Telegram bot nya dengan API token bot kalian
 
+Untuk mendapatkan API key telebot bisa kalian buat
+Di Telegram melalui bot father
+Untuk API key OPENAI kalian buat API key nya disini
+https://platform.openai.com/account/api-keys
 Lalu start dengan cara
 
 Python3 main.py
