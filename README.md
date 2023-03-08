@@ -14,22 +14,22 @@ pkg install python3-pip
 
 Lalu cloning repo di bawah ini 
 
-git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
+#git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
 
 
 Buka direktori CyberCHAT_BOT
-cd CyberCHAT_BOT
+#cd CyberCHAT_BOT
 
-lalu install dulu requirements.txt untuk menginstal semua
+lalu install dulu #requirements.txt untuk menginstal semua
 Library
 
 Dengan cara:
-pip install - r requirements.txt
+#pip install - r requirements.txt
 
 Lalu kalian edit dulu file main.py nya
 Dengan cara nano main.py
-Kalian ubah API token openAI nya dengan API token openai kalian
-Dan ubah juga API token Telegram bot nya dengan API token bot kalian
+Kalian ubah #API token openAI nya dengan #API token openai kalian
+Dan ubah juga #API token Telegram bot nya dengan API token bot kalian
 
 Lalu start dengan cara
 
