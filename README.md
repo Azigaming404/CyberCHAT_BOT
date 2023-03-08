@@ -5,13 +5,16 @@ Sudo apt update && apt upgrade -y
 sudo apt install ruby
 Sudo apt install python3
 Sudo apt install python3-pip
+pip install figlet
+gem install lolcat
 
 Untuk termux
 apt update
 pkg install ruby
 pkg install python3
 pkg install python3-pip
-
+pip install figlet
+gem install lolcat
 Lalu cloning repo di bawah ini 
 
 git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
