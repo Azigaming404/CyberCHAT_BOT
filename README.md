@@ -14,7 +14,7 @@ pkg install python3-pip
 
 Lalu cloning repo di bawah ini 
 
-#git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
+git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
 
 
 Buka direktori CyberCHAT_BOT
