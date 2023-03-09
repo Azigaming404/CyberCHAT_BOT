@@ -2,11 +2,11 @@
 
 Untuk KALI/ubuntu/debian dll
 Sudo apt update && apt upgrade -y
-sudo apt install ruby
-Sudo apt install python3
-Sudo apt install python3-pip
-pip install figlet
-gem install lolcat
+<p>sudo apt install ruby</p>
+<p>Sudo apt install python3</p>
+<p>Sudo apt install python3-pip</p>
+<p>pip install figlet</p>
+<p>gem install lolcat</p>
 
 Untuk termux
 apt update
