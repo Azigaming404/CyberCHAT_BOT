@@ -41,3 +41,7 @@ https://platform.openai.com/account/api-keys
 Lalu start dengan cara
 
 Bash setup.sh
+
+
+Jangan lupa dukung saya agar semakin semangat membuat
+Tool tool yang bermanfaat https://saweria.co/Cybervpn
