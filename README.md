@@ -27,7 +27,7 @@ lalu install dulu # requirements.txt untuk menginstal semua
 Library
 
 Dengan cara:
-# pip install - r requirements.txt
+pip install - r requirements.txt
 
 Lalu kalian edit dulu file main.py nya
 Dengan cara nano main.py
