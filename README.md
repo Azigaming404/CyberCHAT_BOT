@@ -40,4 +40,4 @@ Untuk API key OPENAI kalian buat API key nya disini
 https://platform.openai.com/account/api-keys
 Lalu start dengan cara
 
-Python3 main.py
+Bash setup.sh
