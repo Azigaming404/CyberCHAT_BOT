@@ -1,5 +1,4 @@
 # CyberCHAT_BOT
-
 Untuk KALI/ubuntu/debian dll
 Sudo apt update && apt upgrade -y
 <p>sudo apt install ruby</p>
