@@ -1,8 +1,3 @@
-//ini adalah script ChatGPT gratis, dilarang
-//Menjual demi keuntungan pribadi!!
-
-
-
 import telebot
 from telebot import types
 import openai
