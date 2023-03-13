@@ -7,8 +7,8 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 
 ## Get & Change OpenAI ApiKey
 - Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file key.json dan main.py
-- di file main.py jangan lupa isi API token bot telegramnya
+- Ganti ApiKey OpenAI pada file key.json dan main.py dengan nano
+- di file main.py jangan lupa isi API token bot telegramnya dengan nano
 
 ## Install
 **Install on Termux (wajib root / menggunakan distro linux) & all linux ✅**
@@ -24,6 +24,7 @@ bash
 - $ sudo apt install ruby
 - $ gem install lolcat
 - $ cd CyberCHAT_BOT
+- $ unzip node_modules
 - $ python3 -m venv venv
 - $ source venv/bin/activate
 - $ start script dengan cara : bash setup.sh
