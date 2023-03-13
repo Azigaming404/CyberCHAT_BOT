@@ -28,5 +28,5 @@ $ source venv/bin/activate
 $ start script dengan cara : bash setup.sh
 
 credit: 
-- script BOT chat GPT for whatapp by: Yusril
-- Script BOT telegram chat GPT by: AZI Gaming404
+- script BOT chat GPT for whatapp by: Yusril https://github.com/Sansekai/Wa-OpenAI
+- Script BOT telegram chat GPT by: AZI Gaming404 (admin CyberCHAT_BOT)
