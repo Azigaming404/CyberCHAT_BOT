@@ -20,12 +20,12 @@ sudo apt install git nodejs -y
 pip install figlet
 sudo apt install python3
 sudo apt install python3-pip
-$ sudo apt install ruby
-$ gem install lolcat
-$ cd CyberCHAT_BOT
-$ python3 -m venv venv
-$ source venv/bin/activate
-$ start script dengan cara : bash setup.sh
+- $ sudo apt install ruby
+- $ gem install lolcat
+- $ cd CyberCHAT_BOT
+- $ python3 -m venv venv
+- $ source venv/bin/activate
+- $ start script dengan cara : bash setup.sh
 
 credit: 
 - script BOT chat GPT for whatapp by: Yusril https://github.com/Sansekai/Wa-OpenAI
