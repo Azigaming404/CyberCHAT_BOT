@@ -23,6 +23,7 @@ bash
 - $ sudo apt install python3-pip
 - $ sudo apt install ruby
 - $ gem install lolcat
+- https://github.com/Azigaming404/CyberCHAT_BOT.git
 - $ cd CyberCHAT_BOT
 - $ unzip node_modules
 - $ python3 -m venv venv
