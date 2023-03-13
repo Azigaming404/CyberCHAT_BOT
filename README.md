@@ -16,10 +16,10 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat install otomatis melalui ```npm install``` terjadi error.
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
 bash
-sudo apt install git nodejs -y
-pip install figlet
-sudo apt install python3
-sudo apt install python3-pip
+- $ sudo apt install git nodejs -y
+- $ pip install figlet
+- $ sudo apt install python3
+- $ sudo apt install python3-pip
 - $ sudo apt install ruby
 - $ gem install lolcat
 - $ cd CyberCHAT_BOT
