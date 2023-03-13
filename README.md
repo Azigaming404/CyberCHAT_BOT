@@ -17,6 +17,7 @@ Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
 bash
 - $ sudo apt install git nodejs -y
+- $ sudo apt install npm
 - $ pip install figlet
 - $ sudo apt install python3
 - $ sudo apt install python3-pip
