@@ -35,7 +35,7 @@ then
 clear
 echo "waiting update" | lolcat
 sleep 2
-git pull
+git pull && bash setup.sh
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
@@ -43,5 +43,5 @@ then
 clear
 echo "fix update" | lolcat
 sleep 2
-git stash && git merge
+git stash && git merge && bash setup.sh
 fi
