@@ -13,8 +13,10 @@ echo "__________________________________________________" | lolcat
 echo
 echo "==================================================" | lolcat
 echo "                      menu" | lolcat
-echo "1.start bot" | lolcat
-echo "2.update bot" | lolcat
+echo "1.start bot telegram" | lolcat
+echo "2.bot whatsapp" | lolcat
+echo "3.update bot" | lolcat
+echo "4.fix update" | lolcat
 echo -e "${ungu}"
 echo
 read -p    "Pilih Nomor :" bro 
@@ -28,7 +30,7 @@ echo "bot connected!" | lolcat
 python3 main.py
 fi
 
-if [ $bro = 2 ] || [ $bro = 2 ]
+if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo "waiting update" | lolcat
