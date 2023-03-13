@@ -1,53 +1,46 @@
-# CyberCHAT_BOT
-Untuk KALI/ubuntu/debian dll
-Sudo apt update && apt upgrade -y
-<p>sudo apt install ruby</p>
-<p>Sudo apt install python3</p>
-<p>Sudo apt install python3-pip</p>
-<p>pip install figlet</p>
-<p>gem install lolcat</p>
+# Wa-OpenAI
 
-Untuk termux
-apt update
-pkg install ruby
-pkg install python3
-pkg install python3-pip
-pip install figlet
-gem install lolcat
-Lalu cloning repo di bawah ini 
+***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
-git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
+## BACA DULU
+Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
 
+## Get & Change OpenAI ApiKey
+- Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
+- Ganti ApiKey OpenAI pada file [key.json](https://github.com/Sansekai/Wa-OpenAI/blob/844f41c362250bed10857443c013cbb454807e87/key.json#L2)
 
-## Buka direktori CyberCHAT_BOT
-cd CyberCHAT_BOT
+## Install
+**Install on RDP/Windows ✅**
 
-buat virtual project dulu dengan cara 
-python3 -m venv venv
+Install [NodeJS](https://nodejs.org/en/download/)
+ dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
+```bash
+$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ cd Wa-OpenAI
+$ npm install
+$ node index.js
+```
+**Install on Termux ✅**
 
-lalu aktifkan venv nya dengan cara:
-source venv/bin/activate
+Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat install otomatis melalui ```npm install``` terjadi error.
+<br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
+```bash
+$ pkg install git nodejs -y
+$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ cd Wa-OpenAI
+```
+Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder Wa-OpenAI.
 
+**Run**
+```bash
+$ node index.js
+```
 
-lalu install dulu  requirements.txt untuk menginstal semua
-Library
+## Donate
+<a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
-Dengan cara:
-pip install - r requirements.txt
+## License
+[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
 
-Lalu kalian edit dulu file main.py nya
-Dengan cara nano main.py
-Kalian ubah API token openAI nya dengan API token openai kalian
-Dan ubah juga API token Telegram bot nya dengan API token bot kalian
+Copyright (c) 2022 M Yusril
 
-Untuk mendapatkan API key telebot bisa kalian buat
-Di Telegram melalui bot father
-Untuk API key OPENAI kalian buat API key nya disini
-https://platform.openai.com/account/api-keys
-Lalu start dengan cara
-
-Bash setup.sh
-
-
-Jangan lupa dukung saya agar semakin semangat membuat
-Tool tool yang bermanfaat https://saweria.co/Cybervpn
