@@ -8,7 +8,7 @@ figlet "CyberCHAT" | lolcat
 echo "==================================================" | lolcat
 echo "__________________________________________________" | lolcat
 echo "                 script by: A7i" | lolcat
-echo "                         V.2.1 LTS" | lolcat
+echo "                  V.2.1 LTS" | lolcat
 echo "__________________________________________________" | lolcat
 echo
 echo "==================================================" | lolcat
