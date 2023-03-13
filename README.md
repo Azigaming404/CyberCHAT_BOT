@@ -19,10 +19,17 @@ Lalu cloning repo di bawah ini
 git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
 
 
-Buka direktori CyberCHAT_BOT
-#cd CyberCHAT_BOT
+## Buka direktori CyberCHAT_BOT
+cd CyberCHAT_BOT
 
-lalu install dulu # requirements.txt untuk menginstal semua
+buat virtual project dulu dengan cara 
+python3 -m venv venv
+
+lalu aktifkan venv nya dengan cara:
+source venv/bin/activate
+
+
+lalu install dulu  requirements.txt untuk menginstal semua
 Library
 
 Dengan cara:
