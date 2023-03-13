@@ -27,5 +27,6 @@ $ python3 -m venv venv
 $ source venv/bin/activate
 $ start script dengan cara : bash setup.sh
 
-credit: script BOT chat GPT for whatapp by: Yusril
-        Script BOT telegram chat GPT by: AZI Gaming404
+credit: 
+- script BOT chat GPT for whatapp by: Yusril
+- Script BOT telegram chat GPT by: AZI Gaming404
