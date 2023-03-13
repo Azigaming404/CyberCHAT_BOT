@@ -14,7 +14,7 @@ echo
 echo "==================================================" | lolcat
 echo "                      menu" | lolcat
 echo "1.start bot telegram" | lolcat
-echo "2.bot whatsapp" | lolcat
+echo "2.start bot whatsapp" | lolcat
 echo "3.update bot" | lolcat
 echo "4.fix update" | lolcat
 echo -e "${ungu}"
@@ -44,4 +44,12 @@ clear
 echo "fix update" | lolcat
 sleep 2
 git stash && git merge && bash setup.sh
+fi
+
+if [ $bro = 2 ] || [ $bro = 2 ]
+then
+clear
+echo "starting bot whatsapp" | lolcat
+sleep1 
+node index.js
 fi
