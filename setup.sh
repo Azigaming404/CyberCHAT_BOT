@@ -37,3 +37,11 @@ echo "waiting update" | lolcat
 sleep 2
 git pull
 fi
+
+if [ $bro = 4 ] || [ $bro = 4 ]
+then
+clear
+echo "waiting update" | lolcat
+sleep 2
+git stash && git merge
+fi
