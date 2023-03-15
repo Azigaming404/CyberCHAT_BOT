@@ -1,6 +1,6 @@
 #!/bin/bash
+bash banner.sh
 ungu='\033[0;35m'
-sleep 1
 echo "==================================================" | lolcat
 figlet -f script "CyberCHAT" | lolcat
 echo "==================================================" | lolcat
