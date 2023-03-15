@@ -13,24 +13,25 @@ Green_background="\033[42;37m"
 Red_background="\033[41;37m"
 Suffix="\033[0m"
 bash banner.sh
-echo -e "${ungu}====================================================" 
+echo -e "${Red}====================================================" 
 date | lolcat
-echo -e "${ungu}____________________________________________________"
+echo -e "${Red}____________________________________________________"
 echo "                 script by: A7i" | lolcat
-echo -e "${ungu}____________________________________________________"
+echo -e "${Red}____________________________________________________"
 echo "                      menu" | lolcat
 echo "1.start bot telegram"
 echo "2.start bot whatsapp" 
 echo "3.update bot" 
 echo "4.fix update"
 echo 
-echo -e "${ungu}___________________________________________________" 
+echo -e "${Red}___________________________________________________" 
 echo 
-echo -e "${blue}Client Name: AZI GANTENG"
+echo -e "${WhiteB}Client Name: AZI GANTENG"
 echo "Region : Indonesia" 
 echo "Status : Pemilik Script"
 echo "my love : deby"
-echo -e "${ungu}___________________________________________________"
+echo -e "${Red}___________________________________________________"
+echo -e "${WhiteB}"
 read -p    "Pilih Nomor :" bro 
 
 if [ $bro = 1 ] || [ $bro = 1 ]
