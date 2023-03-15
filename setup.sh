@@ -1,5 +1,4 @@
 #!/bin/bash
-clear
 bash banner.sh
 ungu='\033[0;35m'
 echo "==================================================" | lolcat
