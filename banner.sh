@@ -1,5 +1,5 @@
 #!/bin/bash
-Clear
+clear
 sleep 1
 echo "===============================================" | lolcat
 echo "IP VPS   : 167.71.199.138"
