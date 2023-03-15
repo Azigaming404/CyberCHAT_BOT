@@ -14,6 +14,7 @@ echo "__________________________________________________" | lolcat
 echo "Client Name: AZI GANTENG"
 echo "Region : Indonesia" 
 echo "Status : Pemilik Script"
+echo "my love : deby"
 echo "==================================================" | lolcat
 echo "                      menu" | lolcat
 echo "1.start bot telegram" | lolcat
