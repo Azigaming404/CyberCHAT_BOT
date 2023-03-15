@@ -25,8 +25,8 @@ echo "3.update bot"
 echo "4.fix update"
 echo 
 echo -e "${ungu}___________________________________________________" 
-echo -e "${blue}"
-echo "Client Name: AZI GANTENG"
+echo 
+echo -e "${blue}Client Name: AZI GANTENG"
 echo "Region : Indonesia" 
 echo "Status : Pemilik Script"
 echo "my love : deby"
