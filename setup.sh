@@ -2,8 +2,6 @@
 bash banner.sh
 ungu='\033[0;35m'
 echo "==================================================" | lolcat
-figlet -f script "CyberCHAT" | lolcat
-echo "==================================================" | lolcat
 date | lolcat
 echo "__________________________________________________" | lolcat
 echo "                 script by: A7i" | lolcat
