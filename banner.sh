@@ -1,5 +1,6 @@
 #!/bin/bash
 Clear
+sleep 1
 echo "===============================================" | lolcat
 echo "IP VPS   : 167.71.199.138"
 echo "Timezone : lndonesia/Jakarta (GMT+7)
