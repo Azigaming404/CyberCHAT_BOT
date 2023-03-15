@@ -4,7 +4,7 @@ ungu='\033[0;35m'
 clear
 sleep 1
 echo "==================================================" | lolcat
-figlet -f block "CyberCHAT" | lolcat
+figlet -f script "CyberCHAT" | lolcat
 echo "==================================================" | lolcat
 echo "__________________________________________________" | lolcat
 echo "                 script by: A7i" | lolcat
