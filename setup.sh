@@ -26,7 +26,7 @@ echo "4.Client update"
 echo 
 echo -e "${Red}___________________________________________________" 
 echo 
-echo -e "${WhiteB}Cli
+echo -e "${WhiteB}"
 echo "Owner Name: AZI GANTENG"
 echo "Region    : Indonesia" 
 echo "Status    : Member"
