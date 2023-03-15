@@ -1,7 +1,5 @@
 #!/bin/bash
 ungu='\033[0;35m'
-
-clear
 sleep 1
 echo "==================================================" | lolcat
 figlet -f script "CyberCHAT" | lolcat
