@@ -1,25 +1,24 @@
 #!/bin/bash
-bash banner.sh
 ungu='\033[0;35m'
-echo "=====================================================" | lolcat
+bash banner.sh
+echo -e "{ungu}====================================================" 
 date | lolcat
-echo "_____________________________________________________" | lolcat
+echo -e "{ungu}____________________________________________________"
 echo "                 script by: A7i" | lolcat
-echo "                  V.2.1 LTS" | lolcat
-echo "____________________________________________________" | lolcat
-echo "====================================================" | lolcat
+echo -e "{ungu}____________________________________________________"
+echo -e "{ungu}====================================================" 
 echo "                      menu" | lolcat
-echo "1.start bot telegram" | lolcat
-echo "2.start bot whatsapp" | lolcat
-echo "3.update bot" | lolcat
-echo "4.fix update" | lolcat
-echo -e "${ungu}"
-echo "___________________________________________________" | lolcat
+echo "1.start bot telegram"
+echo "2.start bot whatsapp" 
+echo "3.update bot" 
+echo "4.fix update"
+echo 
+echo -e "{ungu}___________________________________________________" 
 echo "Client Name: AZI GANTENG"
 echo "Region : Indonesia" 
 echo "Status : Pemilik Script"
 echo "my love : deby"
-echo "___________________________________________________" | lolcat
+echo -e "{ungu}___________________________________________________"
 read -p    "Pilih Nomor :" bro 
 
 if [ $bro = 1 ] || [ $bro = 1 ]
