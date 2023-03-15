@@ -1,6 +1,6 @@
 const sessionName = "CyberVPN";
-const donet = "https://saweria.co/sansekai";
-const owner = ["6287878817169"]; // Put your number here ex: ["62xxxxxxxxx"]
+const donet = "https://saweria.co/Cybervpn";
+const owner = ["62895410715294"]; // Put your number here ex: ["62xxxxxxxxx"]
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
