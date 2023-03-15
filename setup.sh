@@ -64,6 +64,6 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo "starting bot whatsapp" | lolcat
-sleep1 
+sleep 1 
 node index.js
 fi
