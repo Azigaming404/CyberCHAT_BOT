@@ -25,6 +25,7 @@ bash
 - $ gem install lolcat
 - git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
 - $ cd CyberCHAT_BOT
+- $ sudo mv 3d.fif /usr/share/figlet/
 - $ unzip node_modules
 - $ python3 -m venv venv
 - $ source venv/bin/activate
