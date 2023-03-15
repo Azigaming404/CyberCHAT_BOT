@@ -22,14 +22,15 @@ echo "                      menu" | lolcat
 echo "1.start bot telegram"
 echo "2.start bot whatsapp" 
 echo "3.update bot" 
-echo "4.fix update"
+echo "4.Client update"
 echo 
 echo -e "${Red}___________________________________________________" 
 echo 
-echo -e "${WhiteB}Client Name: AZI GANTENG"
-echo "Region : Indonesia" 
-echo "Status : Pemilik Script"
-echo "my love : deby"
+echo -e "${WhiteB}Cli
+echo "Owner Name: AZI GANTENG"
+echo "Region    : Indonesia" 
+echo "Status    : Member"
+echo "Masa aktif: 30 hari"
 echo -e "${Red}___________________________________________________"
 echo -e "${WhiteB}"
 read -p    "Pilih Nomor :" bro 
@@ -54,9 +55,9 @@ fi
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-echo "fix update" | lolcat
+echo "Cheking update" | lolcat
 sleep 2
-git stash && git merge && bash setup.sh
+https://raw.githubusercontent.com/Azigaming404/CyberCHAT_BOT/main/banner.sh
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
