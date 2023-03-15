@@ -1,7 +1,9 @@
 #!/bin/bash
 clear
 sleep 1
-echo "==================================================" | lolcat
+echo "=================================================="
+figlet -f 3d "CyberCHAT BOT"
+echo "=================================================="
 echo "IP VPS   : 167.71.199.138"
 echo "Timezone : lndonesia/Jakarta (GMT+7)"
 echo "Role     : ChatGPT OpenAI"
