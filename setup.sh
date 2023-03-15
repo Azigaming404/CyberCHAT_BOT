@@ -57,7 +57,7 @@ then
 clear
 echo "Cheking update" | lolcat
 sleep 2
-wget https://raw.githubusercontent.com/Azigaming404/CyberCHAT_BOT/main/banner.sh
+bash update.sh
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
