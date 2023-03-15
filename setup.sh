@@ -6,6 +6,7 @@ sleep 1
 echo "==================================================" | lolcat
 figlet -f script "CyberCHAT" | lolcat
 echo "==================================================" | lolcat
+date | lolcat
 echo "__________________________________________________" | lolcat
 echo "                 script by: A7i" | lolcat
 echo "                  V.2.1 LTS" | lolcat
