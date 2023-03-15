@@ -38,7 +38,7 @@ then
 clear
 echo "waiting update" | lolcat
 sleep 2
-git pull && bash setup.sh
+bash update && bash setup.sh
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
