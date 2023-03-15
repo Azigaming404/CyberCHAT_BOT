@@ -11,7 +11,9 @@ echo "__________________________________________________" | lolcat
 echo "                 script by: A7i" | lolcat
 echo "                  V.2.1 LTS" | lolcat
 echo "__________________________________________________" | lolcat
-echo
+echo "Client Name: AZI GANTENG" | lolcat
+echo "Region : Indonesia" | lolcat
+echo "Status : Pemilik Script"
 echo "==================================================" | lolcat
 echo "                      menu" | lolcat
 echo "1.start bot telegram" | lolcat
