@@ -6,7 +6,6 @@ date | lolcat
 echo -e "{ungu}____________________________________________________"
 echo "                 script by: A7i" | lolcat
 echo -e "{ungu}____________________________________________________"
-echo -e "{ungu}====================================================" 
 echo "                      menu" | lolcat
 echo "1.start bot telegram"
 echo "2.start bot whatsapp" 
