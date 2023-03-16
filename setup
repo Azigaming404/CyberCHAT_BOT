@@ -50,7 +50,8 @@ then
 clear
 echo "waiting update" | lolcat
 sleep 2
-rm -f setup.x && bash update && chmod 777 setup.x && ./setup.x
+rm setup.x
+bash update && chmod 777 setup.x && ./setup.x
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
