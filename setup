@@ -60,8 +60,7 @@ then
 clear
 echo "Cheking update" | lolcat
 sleep 2
-rm banner.sh
-wget https://raw.githubusercontent.com/Azigaming404/CyberCHAT_BOT/main/banner.sh && chmod 777 setup && ./setup
+rm banner.sh && wget https://raw.githubusercontent.com/Azigaming404/CyberCHAT_BOT/main/banner.sh && chmod 777 setup && ./setup
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
