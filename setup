@@ -50,7 +50,7 @@ then
 clear
 echo "waiting update" | lolcat
 sleep 2
-rm setup.x
+rm setup
 bash update && chmod 777 setup && ./setup
 fi
 
@@ -59,7 +59,7 @@ then
 clear
 echo "Cheking update" | lolcat
 sleep 2
-wget https://raw.githubusercontent.com/Azigaming404/CyberCHAT_BOT/main/banner.sh && chmod 777 setup.x && ./setup.x
+wget https://raw.githubusercontent.com/Azigaming404/CyberCHAT_BOT/main/banner.sh && chmod 777 setup && ./setup
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
