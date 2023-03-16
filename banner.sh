@@ -21,8 +21,9 @@ echo -e "${WhiteB}=================================================="
 echo "IP VPS   : 167.71.199.138"
 echo "Timezone : lndonesia/Jakarta (GMT+7)"
 echo "Role     : ChatGPT OpenAI"
-echo "OS       : Ubuntu 20.04 LTS"
+echo "Client   : Azigaming ssh"
 echo "Version  : V.3.0.0 Lates"
+echo "Expired  : 14 april 2023"
 echo "=================================================="
 echo
 echo
