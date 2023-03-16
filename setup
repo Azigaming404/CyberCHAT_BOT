@@ -40,6 +40,10 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 figlet -f 3d "TELE-GPT" | lolcat
+echo -e "${ungu}__________________________________________________"
+echo -e "${BlueCyan}       •Terimakasih sudah menggunakan layanan"
+echo -e "${BlueCyan}                             Script Premium CyberBOT"
+echo -e "${ungu}__________________________________________________"
 echo "connect to bot" | lolcat 
 sleep 1
 echo "bot connected!" | lolcat
