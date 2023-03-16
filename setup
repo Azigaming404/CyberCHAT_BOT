@@ -23,7 +23,7 @@ echo "                      menu" | lolcat
 echo "1.start bot telegram"
 echo "2.start bot whatsapp" 
 echo "3.update bot" 
-echo "4.Client update"
+echo "4.Cek update"
 echo 
 echo -e "${Red}___________________________________________________" 
 echo 
