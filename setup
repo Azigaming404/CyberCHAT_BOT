@@ -13,6 +13,7 @@ Green_background="\033[42;37m"
 Red_background="\033[41;37m"
 Suffix="\033[0m"
 bash banner.sh
+echo -e "${Green} script premium ChatGPT"
 echo -e "${Red}====================================================" 
 date | lolcat
 echo -e "${Red}____________________________________________________"
