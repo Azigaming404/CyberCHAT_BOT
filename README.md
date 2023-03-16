@@ -6,7 +6,6 @@
 Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
 
 ## Get & Change OpenAI ApiKey
-- Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
 - Ganti ApiKey OpenAI pada file key.json dan main.py dengan nano
 - di file main.py jangan lupa isi API token bot telegramnya dengan nano
 
