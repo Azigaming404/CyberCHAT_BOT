@@ -38,8 +38,7 @@ read -p    "Pilih Nomor :" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-echo "${Red}"
-figlet -f 3D "TELE-GPT"
+figlet -f 3D "TELE-GPT" | lolcat
 echo "connect to bot" | lolcat 
 sleep 1
 echo "bot connected!" | lolcat
