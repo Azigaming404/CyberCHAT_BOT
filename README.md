@@ -1,5 +1,7 @@
 # CyberCHAT_BOT (whatsapp & telegram)
 
+![text](https://user-images.githubusercontent.com/120331083/225952804-e1261532-d8a5-4701-b8c8-d19c3cad3fed.gif)
+
 ***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 
