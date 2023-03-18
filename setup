@@ -65,7 +65,7 @@ clear
 echo "Cheking update" | lolcat
 sleep 2
 echo "Version Already up to date!!" | lolcat
-echo "tulis 00 untuk kembali
+echo "tulis 00 untuk kembali"
 read -p    "Pilih Nomor :" bro 
 
 if [ $bro = 00 ] || [ $bro = 00 ]
