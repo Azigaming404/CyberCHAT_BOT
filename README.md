@@ -31,7 +31,8 @@ bash
 - $ cd CyberCHAT_BOT
 - $ sudo mv 3d.flf /usr/share/figlet/
 - $ unzip node_modules
-- $ python3 -m venv venv
+- $ khusus WSL harus nyalain venv dengan
+Cara: python3 -m venv venv
 - $ source venv/bin/activate
 - $ pip3 install -r requirements.txt
 - $ chmod 777 setup
