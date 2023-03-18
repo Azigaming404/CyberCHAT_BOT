@@ -34,8 +34,8 @@ bash
 - $ python3 -m venv venv
 - $ source venv/bin/activate
 - $ pip3 install -r requirements.txt
-- $ start script dengan cara : bash setup.sh
-
+- $ chmod 777 setup
+- $ start script dengan cara : ./setup
 credit: 
 - script BOT chat GPT for whatapp by: Yusril https://github.com/Sansekai/Wa-OpenAI
 - Script BOT telegram chat GPT by: AZI Gaming404 (admin CyberCHAT_BOT)
