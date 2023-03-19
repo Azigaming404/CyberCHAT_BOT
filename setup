@@ -65,7 +65,7 @@ clear
 echo "Cheking update" | lolcat
 sleep 2
 echo "Version Already up to date!!" | lolcat
-
+fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
