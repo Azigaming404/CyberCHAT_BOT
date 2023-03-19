@@ -17,6 +17,8 @@ sleep 1
 echo "=================================================="
 echo -e "${Red_background}   SCRIPT BOT PREMIUM          "
 echo "__________________________________________________"
+echo
+echo
 echo -e "${Red}"
 figlet -f 3d "CyberCHAT BOT"
 echo -e "${WhiteB}=================================================="
