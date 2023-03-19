@@ -15,7 +15,7 @@ Suffix="\033[0m"
 clear
 sleep 1
 echo "=================================================="
-echo -e "${Red_background}   SCRIPT BOT PREMIUM          "
+echo -e "${red}   SCRIPT BOT PREMIUM          "
 echo "__________________________________________________"
 echo
 echo
