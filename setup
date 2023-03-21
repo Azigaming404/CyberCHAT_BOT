@@ -34,7 +34,7 @@ echo "Status    : Member"
 echo "Masa aktif: 30 hari"
 echo -e "${Red}___________________________________________________"
 echo -e "${WhiteB}"
-read -p    "Pilih Nomor :" bro 
+read -p    "Pilih Nomor └╼>>>" bro 
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
