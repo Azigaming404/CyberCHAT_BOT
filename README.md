@@ -30,7 +30,7 @@ bash
 - git clone https://github.com/Azigaming404/CyberCHAT_BOT.git
 - $ cd CyberCHAT_BOT
 - $ sudo mv 3d.flf /usr/share/figlet/
-- $ unzip node_modules
+- $ unzip node_modules.zip
 - $ khusus WSL harus nyalain venv dengan
 Cara: python3 -m venv venv
 - $ source venv/bin/activate
